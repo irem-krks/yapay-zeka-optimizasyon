@@ -23,5 +23,4 @@ Altın Oran Arama Algoritması her iterasyonda belirsizlik aralığını sabit r
 - Pandas
 - Matplotlib
 
-## Ders
-Optimizasyon Teknikleri
+
