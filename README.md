@@ -1,4 +1,4 @@
-# yapay-zeka-optimizasyon
+# Yapay-Zeka-Optimizasyon
 # Altın Oran Arama Algoritması — Savunma Sanayii Uygulamalı Optimizasyon
 
 ## Proje Hakkında
